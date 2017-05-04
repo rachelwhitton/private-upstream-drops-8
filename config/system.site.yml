@@ -1,7 +1,7 @@
 uuid: 85648c33-15d7-4202-aca4-8db3a3356460
 name: private-upstream-drops-8
 mail: rachel@getpantheon.com
-slogan: ''
+slogan: 'Test site for Composer-managed Drupal 8 sites'
 page:
   403: ''
   404: ''
